@@ -97,7 +97,7 @@ input#day-night:checked ~ .content:after {
 }
 
 
-.moon-sun {
+/* .moon-sun {
 	position: absolute;
 	width: 18vmin;
 	height: 18vmin;
@@ -157,7 +157,7 @@ input#day-night:checked ~ .content .moon-sun {
 	49% { background: #ffeb3b; filter: drop-shadow(0px 1px 6vmin #ff9800) drop-shadow(0px 1px 6vmin #fdfdfd); }
 	50% {  background: var(--moon); }
 	100% { bottom: 70vmin;  background: var(--moon);filter: drop-shadow(0px 1px 6vmin #6493a9) drop-shadow(0px 1px 6vmin #fdfdfd); box-shadow: none; }
-}
+} */
 
 
 
